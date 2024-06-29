@@ -1,0 +1,9 @@
+llama-cpp-python
+transformers
+torch
+scikit-learn
+nltk
+PyQt6
+python-docx
+pdfminer.six
+chardet
