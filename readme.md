@@ -1,7 +1,7 @@
 
 # ChatHX : LLM chat made easy and fast with RAG and wide LLM support
 
-![ChatHX_Render](https://github.com/Tech-ware/ChatHX/assets/134525789/620eff9d-fb12-474f-b1f5-f3245e6960cb)
+![ChatHX_Render](https://github.com/Tech-ware/ChatHX-Prototyping/assets/134525789/84e54c93-264b-4bd1-81d0-927fc01fea6f)
 
 
 ChatHX is a Python-based chat application that leverages the power of Large Language Models (LLMs) and Retrieval Augmented Generation (RAG) to provide context-aware and informative responses.
