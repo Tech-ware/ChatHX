@@ -26,7 +26,7 @@ ChatHX is a Python-based chat application that leverages the power of Large Lang
 
 2. **Running the Application:**
    ```bash
-   python gui_S.py
+   python gui.py
    ```
 
 3. **Loading an LLM:**
